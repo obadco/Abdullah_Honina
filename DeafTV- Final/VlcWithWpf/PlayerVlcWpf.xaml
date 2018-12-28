@@ -1,0 +1,106 @@
+﻿<UserControl x:Class="VlcWithWpf.PlayerVlcWpf"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300" >
+    <UserControl.Resources>
+
+        <ResourceDictionary Source="GlsBtn.xaml"/>
+
+    </UserControl.Resources>
+
+    <Grid  x:Name ="grdMain" Background="White" Width="Auto" Height="Auto">
+
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"  />
+            <RowDefinition Height="70"  />
+        </Grid.RowDefinitions>
+
+
+        <Border x:Name="mediaPlayerBorder1"  BorderBrush="Gray" Grid.Row="0" BorderThickness="1,1,1,1" Margin="2,-1,5,5" CornerRadius="5,5,5,5" >
+
+            <Grid>
+                <MediaElement Name="mdElm"    Height="Auto" Width="Auto" MediaOpened="Element_MediaOpened" MediaEnded="Element_MediaEnded"    Margin="-1,0,0,0" Stretch="Fill"  DragEnter="mdElm_DragEnter" Drop="mdElm_Drop"  />
+                <TextBlock x:Name="lblSub"  HorizontalAlignment="Left"  VerticalAlignment="Bottom" Foreground="#FFEEEE52"   TextAlignment="Justify" FontSize="15" FontWeight="Bold" TextWrapping="Wrap" Width="250" Margin="200,0,0,0" />
+            </Grid>
+
+
+
+        </Border>
+
+        <Border x:Name="mediaPlayerBorder2"   Width="Auto" Height="Auto" MaxWidth="320"  MaxHeight="240" MinHeight="150" MinWidth="100" BorderBrush="Gray" Grid.Row="0"  BorderThickness="1,1,1,1" HorizontalAlignment="Stretch" VerticalAlignment="Bottom" CornerRadius="5,5,5,5"  Margin="428,-34,8,10" >
+            <my:WindowsFormsHost x:Name="windowsFormsHost1"     xmlns:my="clr-namespace:System.Windows.Forms.Integration;assembly=WindowsFormsIntegration" />
+
+        </Border>
+
+        <Border x:Name="brdControls" Grid.Row="2"  Grid.ColumnSpan="2" CornerRadius="5,5,5,5" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="4,4,4,4" >
+
+
+            <StackPanel Width="Auto" >
+                <Grid Width="Auto">
+
+                    <Button x:Name="btnPlay"  Grid.RowSpan="3" Click="btnPlay_Click"   Height="38" Width="41"  Margin="206,17,194,2" Style="{StaticResource GlsBtn}"  >
+                        <Image Source="Play.gif" Width="28" Height="27"/>
+
+                    </Button>
+
+                    <Button x:Name="btnStop"  Height="27"  Width="42" Margin="160,23,239,7" Style="{StaticResource GlsBtn}" ToolTip="{DynamicResource  TtbtnStop}" Click="btnStop_Click">
+                        <Rectangle Height="13" Stroke="Black" StrokeThickness="2" Width="12" RenderTransformOrigin="0.75,0.154">
+                            <Rectangle.Fill>
+                                <RadialGradientBrush >
+                                    <!--<GradientStop Offset="1" Color="#00000000"/>
+                                    <GradientStop Offset="0.4" Color="#FFFFFFFF"/>-->
+                                    <RadialGradientBrush.RelativeTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform CenterX="0.5" CenterY="0.5" ScaleX="1.5" ScaleY="1.5"/>
+                                            <TranslateTransform X="0.02" Y="0.3"/>
+                                        </TransformGroup>
+                                    </RadialGradientBrush.RelativeTransform>
+                                </RadialGradientBrush>
+                            </Rectangle.Fill>
+                        </Rectangle>
+                    </Button>
+
+
+                    <Label Name="lblPeriod"    HorizontalAlignment="Stretch" VerticalAlignment="Top" Width="Auto" Height="Auto"  Foreground="Black" FontSize="10pt" Margin="0,-6,408,0"  />
+                    <Button x:Name="btnPause"   Click="btnPause_Click" Height="27"  Width="34" Margin="253,23,154,7" Style="{StaticResource GlsBtn}" ToolTip="{DynamicResource  TtbtnPause}">
+                        <Canvas>
+                            <Rectangle Stroke="Black" StrokeThickness="2" Width="2" Height="12" Canvas.Left="-3" Canvas.Top="-7"/>
+                            <Rectangle Stroke="Black" StrokeThickness="2" Width="2" Height="12" Canvas.Left="3" Canvas.Top="-7" RenderTransformOrigin="0.5,0.5">
+                                <Rectangle.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="-1"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </Rectangle.RenderTransform>
+                            </Rectangle>
+                        </Canvas>
+
+
+                    </Button>
+                    <Slider x:Name="volumeSlider"   ValueChanged="ChangeMediaVolume"   Minimum="0" Maximum="1" Width="105"  HorizontalAlignment="Right" Margin="0,26,12,9" ToolTip="{DynamicResource  TtvolumeSlider}" Style="{DynamicResource SeekSliderStyle}" IsMoveToPointEnabled="True" />
+                    <!--<Slider x:Name="timelineSlider" ValueChanged="SeekToMediaPosition"             />-->
+                    <Slider   Name="timelineSlider"  ValueChanged="SeekToMediaPosition"   Margin="59,-5,61,40"   Thumb.DragStarted="timelineSlider_DragStarted" 
+				Thumb.DragCompleted="timelineSlider_DragCompleted" HorizontalAlignment="Stretch" IsMoveToPointEnabled="True" TickFrequency="120"    >
+                        <Slider.Resources>
+                            <ResourceDictionary Source="SliderBar.xaml" />
+
+
+                        </Slider.Resources>
+
+                    </Slider >
+                    <Label x:Name="lblTotal"    HorizontalAlignment="Right" VerticalAlignment="Top" Width="Auto" Height="Auto" Foreground="Black" FontSize="10pt" Margin="0,-5,0,0"  />
+                </Grid>
+            </StackPanel>
+
+        </Border>
+
+
+        
+    </Grid>
+</UserControl>

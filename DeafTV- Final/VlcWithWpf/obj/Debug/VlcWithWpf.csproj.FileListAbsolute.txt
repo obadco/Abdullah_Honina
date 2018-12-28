@@ -1,0 +1,148 @@
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\bin\Debug\VlcWithWpf.exe.config
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\bin\Debug\VlcWithWpf.exe
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\bin\Debug\VlcWithWpf.pdb
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\VlcWithWpf.csprojResolveAssemblyReference.cache
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\MainWindow.baml
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\MainWindow.g.cs
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\App.g.cs
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\VlcWithWpf_MarkupCompile.cache
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\VlcWithWpf.g.resources
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\VlcWithWpf.Properties.Resources.resources
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\VlcWithWpf.csproj.GenerateResource.Cache
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\VlcWithWpf.exe
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\VlcWithWpf.pdb
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\PlayerVlcWpf.baml
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\PlayerVlcWpf.g.cs
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\bin\Debug\Vlc.DotNet.Core.Interops.dll
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\bin\Debug\Declarations.dll
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\bin\Debug\Implementation.dll
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\bin\Debug\LibVlcWrapper.dll
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\bin\Debug\NLog.dll
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\GlsBtn.baml
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\ArabicLanguage.baml
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\Dictionary.baml
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\EnglishLanguage.baml
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\Dictionary.g.cs
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\VlcWithWpf_MarkupCompile.lref
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\TabHeaders.baml
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\SliderBar.baml
+c:\users\murtada al-junaid\documents\visual studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\Scrlbr.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\Settings.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf\VlcWithWpf\obj\Debug\Settings.g.cs
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\bin\Debug\VlcWithWpf.exe.config
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\VlcWithWpf.exe
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\VlcWithWpf.pdb
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\bin\Debug\VlcWithWpf.exe
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\bin\Debug\VlcWithWpf.pdb
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\bin\Debug\Declarations.dll
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\bin\Debug\Implementation.dll
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\bin\Debug\LibVlcWrapper.dll
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\bin\Debug\NLog.dll
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\bin\Debug\Vlc.DotNet.Core.Interops.dll
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\VlcWithWpf.csprojResolveAssemblyReference.cache
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\ArabicLanguage.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\Dictionary.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\Scrlbr.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\Settings.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\SliderBar.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\TabHeaders.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\EnglishLanguage.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\GlsBtn.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\PlayerVlcWpf.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\Dictionary.g.cs
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\Settings.g.cs
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\MainWindow.g.cs
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\PlayerVlcWpf.g.cs
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\App.g.cs
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\VlcWithWpf_MarkupCompile.cache
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\VlcWithWpf_MarkupCompile.lref
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\MainWindow.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\VlcWithWpf.g.resources
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\VlcWithWpf.Properties.Resources.resources
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy\VlcWithWpf\obj\Debug\VlcWithWpf.csproj.GenerateResource.Cache
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\bin\Debug\VlcWithWpf.exe.config
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\VlcWithWpf.exe
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\VlcWithWpf.pdb
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\bin\Debug\VlcWithWpf.exe
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\bin\Debug\VlcWithWpf.pdb
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\bin\Debug\Declarations.dll
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\bin\Debug\Implementation.dll
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\bin\Debug\LibVlcWrapper.dll
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\bin\Debug\NLog.dll
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\bin\Debug\Vlc.DotNet.Core.Interops.dll
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\VlcWithWpf.csprojResolveAssemblyReference.cache
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\ArabicLanguage.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\Dictionary.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\Scrlbr.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\Settings.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\SliderBar.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\TabHeaders.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\EnglishLanguage.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\GlsBtn.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\PlayerVlcWpf.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\Dictionary.g.cs
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\Settings.g.cs
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\MainWindow.g.cs
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\PlayerVlcWpf.g.cs
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\App.g.cs
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\VlcWithWpf_MarkupCompile.cache
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\VlcWithWpf_MarkupCompile.lref
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\MainWindow.baml
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\VlcWithWpf.g.resources
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\VlcWithWpf.Properties.Resources.resources
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\VlcWithWpf.csproj.GenerateResource.Cache
+C:\Users\Murtada Al-Junaid\Documents\Visual Studio 2013\Projects\VlcWithWpf - Copy - Copy\VlcWithWpf\obj\Debug\ThumSlider.baml
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\bin\Debug\VlcWithWpf.exe.config
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\VlcWithWpf.exe
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\VlcWithWpf.pdb
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\bin\Debug\VlcWithWpf.exe
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\bin\Debug\VlcWithWpf.pdb
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\VlcWithWpf.csprojResolveAssemblyReference.cache
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\ArabicLanguage.baml
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\Dictionary.baml
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\Scrlbr.baml
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\Settings.baml
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\SliderBar.baml
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\TabHeaders.baml
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\EnglishLanguage.baml
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\GlsBtn.baml
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\PlayerVlcWpf.baml
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\ThumSlider.baml
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\Dictionary.g.cs
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\Settings.g.cs
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\MainWindow.g.cs
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\PlayerVlcWpf.g.cs
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\App.g.cs
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\VlcWithWpf_MarkupCompile.cache
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\VlcWithWpf_MarkupCompile.lref
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\MainWindow.baml
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\VlcWithWpf.g.resources
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\VlcWithWpf.Properties.Resources.resources
+F:\books\New folder\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\VlcWithWpf.csproj.GenerateResource.Cache
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\bin\Debug\VlcWithWpf.exe.config
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\VlcWithWpf.exe
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\VlcWithWpf.pdb
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\bin\Debug\VlcWithWpf.exe
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\bin\Debug\VlcWithWpf.pdb
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\VlcWithWpf.csprojResolveAssemblyReference.cache
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\ArabicLanguage.baml
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\Dictionary.baml
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\Scrlbr.baml
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\Settings.baml
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\SliderBar.baml
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\TabHeaders.baml
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\EnglishLanguage.baml
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\GlsBtn.baml
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\PlayerVlcWpf.baml
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\ThumSlider.baml
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\Dictionary.g.cs
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\Settings.g.cs
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\MainWindow.g.cs
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\PlayerVlcWpf.g.cs
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\App.g.cs
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\VlcWithWpf_MarkupCompile.cache
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\VlcWithWpf_MarkupCompile.lref
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\MainWindow.baml
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\VlcWithWpf.g.resources
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\VlcWithWpf.Properties.Resources.resources
+F:\books\Abdullah Graduation Project\VlcWithWpf - Semi-Final\VlcWithWpf\obj\Debug\VlcWithWpf.csproj.GenerateResource.Cache

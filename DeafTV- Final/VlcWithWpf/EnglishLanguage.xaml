@@ -1,0 +1,53 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:system="clr-namespace:System;assembly=mscorlib"
+                    >
+
+    <!--Menu bar-->
+    
+    <system:String x:Key="TbMediaplayer">Media Player</system:String >
+    <system:String x:Key="TbDictionary">Signs Dictionary</system:String >
+    <system:String x:Key="txtbtnLoad">Open new video</system:String >
+    <system:String x:Key="txtbtnSgnDic">Signs Dictionary</system:String >
+    <system:String x:Key="txtbtnSettings">Settings</system:String >
+    <system:String x:Key="txtbtnAbout">About</system:String >
+    <system:String x:Key="txtbtnContact">Contact us</system:String >
+    <system:String x:Key="txtbtnHelp">Help</system:String >
+    <system:String x:Key="txtbtnExits">Exit</system:String>
+
+
+
+    <system:String x:Key="txtblkLoad">*Load video with subtitle to see it with sign language video.</system:String >
+    <system:String x:Key="txtblkSgnDic">*Deaf Dictionary allows you to search for signs corresponding to the words you type.</system:String >
+    <system:String x:Key="txtblkAbout">*Deaf T.V application is a program that convert the video whose subtitle available to sign language which helps the people suffer deafness to interest watching videos.</system:String >
+    <system:String x:Key="txtblkAbout2">*The app also has a Dictionary Feature that can be used to understand the sign language by the people who teach the deaf people.</system:String >
+    <system:String x:Key="txtblkContact">You can contact the Deaf T.V developers either via direct contact on the following phone numbers:</system:String >
+    <system:String x:Key="txtblkHelp">See the manual :</system:String >
+
+   
+
+
+
+
+    <!--Common Operations-->
+    <system:String x:Key="TtbtnPlay">Play</system:String >
+    <system:String x:Key="TtbtnStop">Stop</system:String >
+    <system:String x:Key="TtbtnPause">Pause</system:String >
+    <system:String x:Key="TtvolumeSlider">Volume Level</system:String >
+
+
+    <!--Dictionary Tab 
+    Controls' texts-->
+
+    <system:String x:Key="txttbArb">ِArabic</system:String >
+    <system:String x:Key="txttbEng">English</system:String >
+    <!--Controls' Tool tips-->
+    <system:String x:Key="TttxtSrch">You can search for both Arabic and English</system:String >
+    <system:String x:Key="TttbArb">Existing Arabic words</system:String >
+    <system:String x:Key="TttbEng">Existing English words</system:String >
+    <system:String x:Key="TttbbtnPlay">Replay</system:String >
+
+
+
+
+</ResourceDictionary>

@@ -1,0 +1,19 @@
+﻿<Window x:Class="VlcWithWpf.Settings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Settings" Height="300" Width="300">
+    <Grid>
+        <Label Content="Language :" HorizontalAlignment="Left" Margin="37,73,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cmbLangs" HorizontalAlignment="Left" Margin="110,77,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBox_SelectionChanged" Grid.ColumnSpan="2">
+            <ComboBoxItem>
+                Arabic
+            </ComboBoxItem>
+            <ComboBoxItem>
+                English
+            </ComboBoxItem>
+
+        </ComboBox>
+        <Button Content="Save" HorizontalAlignment="Left" Margin="123,179,0,0" VerticalAlignment="Top" Width="75" Name="btnSave" Click="btnSave_Click"/>
+
+    </Grid>
+</Window>

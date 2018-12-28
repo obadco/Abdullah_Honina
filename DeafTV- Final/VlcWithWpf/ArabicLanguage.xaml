@@ -1,0 +1,59 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:system="clr-namespace:System;assembly=mscorlib"
+                    >
+
+
+
+    <!-- Menu bar -->
+
+
+    <system:String x:Key="TbMediaplayer">مشغل الفيديو</system:String>
+    <system:String x:Key="TbDictionary">القاموس</system:String>
+    <system:String x:Key="txtbtnLoad">فتح ملف</system:String>
+    <system:String x:Key="txtbtnSgnDic">القاموس</system:String>
+    <system:String x:Key="txtbtnAbout">حول البرنامج</system:String>
+    <system:String x:Key="txtbtnContact">التواصل مع المطورين</system:String>
+    <system:String x:Key="txtbtnHelp">المساعدة</system:String>
+    <system:String x:Key="txtbtnExits">خروج</system:String>
+
+
+
+    <system:String x:Key="txtblkLoad">فتح فيديو يحتوي على ملفات ترجمة</system:String >
+    <system:String x:Key="txtblkSgnDic">قاموس الاشارات يسمح لك بإدخال كلمة ويقوم بعرض الاشارة المناسبة لهذه الكلمة </system:String >
+    <system:String x:Key="txtblkAbout">برنامج تلفزيون الصم هو عبارة عن برنامج يساعد الصم على مشاهدة الفيديوهات التي تحتوي على ترجمة بلغة الاشارة.</system:String >
+    <system:String x:Key="txtblkAbout2">كذالك يقدم البرنامج خدمة قاموس الاشارة الذي يساعد على تعلم لغة الاشارة.</system:String >
+    <system:String x:Key="txtblkContact">تستطيع التواصل مع مطوري برنامج تلفزيون الصم على الارقام الاتية.:</system:String >
+    <system:String x:Key="txtblkHelp">انظر الدليل. :</system:String >
+
+
+
+
+    <!-- Common Operations -->
+
+
+    <system:String x:Key="TtbtnPlay">تشغيل</system:String>
+    <system:String x:Key="TtbtnStop">ايقاف</system:String>
+    <system:String x:Key="TtbtnPause">ايقاف مؤقت</system:String>
+    <system:String x:Key="TtvolumeSlider">مستوى الصوت</system:String>
+
+
+
+            <!-- Dictionary Tab -->
+    <!--Controls' texts-->
+
+    <system:String x:Key="txttbArb">عربي</system:String>
+    <system:String x:Key="txttbEng">انجليزي</system:String>
+   
+   
+  
+
+    <!-- Item Labels -->
+
+    <system:String x:Key="TttxtSrch">يمكنك البحث عن الكلمات العربية او الانجليزية</system:String>
+    <system:String x:Key="TttbArb">الكلمات المتوفرة باللغة العربية</system:String>
+    <system:String x:Key="TttbEng">الكلمات المتوفرة باللغة الانجليزية</system:String>
+    <system:String x:Key="TttbbtnPlay">إعادة الفيديو</system:String>
+
+
+</ResourceDictionary>
